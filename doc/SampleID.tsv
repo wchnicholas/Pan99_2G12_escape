@@ -1,0 +1,6 @@
+R1File	SampleID
+fastq/Pan99lib_input_R1_.fastq	input plasmid mutant library
+fastq/Pan99lib_2G12_rep1_R1_.fastq	post-selection replicate 1, with 2G12
+fastq/Pan99lib_2G12_rep2_R1_.fastq	post-selection replicate 2, with 2G12
+fastq/Pan99lib_noAb_rep1_R1_.fastq	post-selection replicate 1, no antibody
+fastq/Pan99lib_noAb_rep2_R1_.fastq	post-selection replicate 2, no antibody
