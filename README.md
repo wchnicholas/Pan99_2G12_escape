@@ -5,7 +5,7 @@ This README describes the scripts used for analyzing the result of a deep mutati
 * [R](https://www.r-project.org) version 3.6.1
 
 ### FILES
-* All raw sequencing reads, which can be downloaded from NIH SRA database PRJNAXXXXXX, should be placed in fastq/ folder. The filename for read 1 should match those described in [./data/SampleID.tsv](./data/SampleID.tsv). The filename for read 2 should be the same as read 1 except "R1" is replaced by "R2".
+* All raw sequencing reads, which can be downloaded from NIH SRA database [PRJNA598865](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA598865), should be placed in fastq/ folder. The filename for read 1 should match those described in [./data/SampleID.tsv](./data/SampleID.tsv). The filename for read 2 should be the same as read 1 except "R1" is replaced by "R2".
 * [./Fasta/Pan99_refseq.fa](./Fasta/Pan99_refseq.fa): Reference sequence (wild-type sequence) for Pan99 amplicon.
 * [./doc/SampleID.tsv](./doc/SampleID.tsv): Describes the sample identity for each fastq file.
 * [./doc/mut_list.tsv](./doc/mut_list.tsv): A list of the mutations of interests.
